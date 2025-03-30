@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "Previously, I asked you to output a script based on some requirements, but it failed to run successfully. I will give you the script you provided, as well as the stack trace of errors or any other error message outputted from running that script. Try to fix it, and provide the full code (not only hints for modifications, but the full code) in response."
+        },
+        {
+            "role": "user",
+            "content": "Here is your input. Always provide the full code in response."
+        }
+    ]
+}
