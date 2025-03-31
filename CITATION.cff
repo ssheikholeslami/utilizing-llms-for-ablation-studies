@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use AblationMage, we'd appreciate a citation:"
+authors:
+- family-names: "Sheikholeslami"
+  given-names: "Sina"
+  orcid: "https://orcid.org/0000-0001-7236-4637"
+- family-names: "Ghasemirahni"
+  given-names: "Hamid"
+  orcid: "https://orcid.org/0000-0002-0034-5098"
+- family-names: "Payberah"
+  given-names: "Amir H."
+  orcid: "https://orcid.org/0000-0002-2748-8929"
+- family-names: "Wang"
+  given-names: "Tianze"
+  orcid: "https://orcid.org/0000-0003-0422-6560"
+- family-names: "Dowling"
+  given-names: "Jim"
+  orcid: "https://orcid.org/0000-0002-9484-6714"
+- family-names: "Vlassov"
+  given-names: "Vladimir"
+  orcid: "https://orcid.org/0000-0002-6779-7435"
+title: "Utilizing Large Language Models for Ablation Studies in Machine Learning and Deep Learning"
+version: 1.0.0
+doi: 10.1145/3721146.3721957
+date-released: 2025-03-31
+url: "https://github.com/ssheikholeslami/utilizing-llms-for-ablation-studies"
